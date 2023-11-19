@@ -1,8 +1,7 @@
-﻿using UnityEngine;
-using UnityEditor;
-using System.Collections;
+﻿using UnityEditor;
+using UnityEngine;
 
-namespace Softdrink{
+namespace AutoQuality{
 	[CustomEditor(typeof(HardwareInfo))]
 	public class HardwareInfoEditor : Editor {
 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-namespace Softdrink{
+namespace AutoQuality{
 
 	// HardwareInfo is a Singleton used to get information about the system hardware and software
 	// This can then be used by other scripts to auto-set quality settings or for other convenience features
